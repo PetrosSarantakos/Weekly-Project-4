@@ -1,0 +1,14 @@
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.exe.config
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.exe
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.pdb
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.csprojAssemblyReference.cache
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.csproj.CoreCompileInputs.cache
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.exe
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.pdb
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.exe.config
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.exe
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\bin\Debug\WeeklyProject4.pdb
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.csprojAssemblyReference.cache
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.csproj.CoreCompileInputs.cache
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.exe
+C:\Users\petro\Downloads\Bootcamp\Weekly Projects\Sarantakos_Petros_4\WeeklyProject4\WeeklyProject4\obj\Debug\WeeklyProject4.pdb
